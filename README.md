@@ -37,3 +37,4 @@ The following conditions now apply:
 ## Compatibility
 
 Zygisk Next only guarantees the same behavior of Zygisk API, but will NOT ensure Magisk's internal features.
+###
